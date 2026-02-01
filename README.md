@@ -1,12 +1,9 @@
-## Hi there 👋
+# About Me
 
-<!--
-I build large-scale, enterprise-ready, high-performance financial systems—the kind that need to be correct, resilient, and fast under real-world load. My background sits at the intersection of engineering, architecture, and finance.
+I build **large-scale, enterprise-ready, high-performance financial systems**, with a CTO’s focus on longevity, correctness, and operational excellence. My work spans architecture, engineering strategy, and hands-on delivery in highly regulated environments.
 
-I care deeply about clean, maintainable architecture. I favour well-defined boundaries, explicit models, and systems that are easy to reason about, evolve, and operate—especially in regulated, long-lived environments.
+I have a strong bias for **clean, maintainable architecture**—clear domain models, well-defined boundaries, and systems designed to scale both technically and organisationally. I care as much about how systems evolve as how they perform on day one.
 
-Much of my work involves complex data modelling and financial calculations: liquidity, risk, forecasting, and regulatory metrics. I enjoy turning messy, domain-heavy problems into precise, testable, production-grade logic.
+My core expertise sits in **AI- and data-centric platforms**, complex data modelling, and financial calculations—turning large, imperfect datasets and sophisticated financial logic into explainable, production-grade systems.
 
-I’m a hands-on technologist with a strong prototype-to-production mindset, using modern cloud, data, and AI tools to deliver systems that scale—technically and organisationally.
-
--->
+I operate with a **prototype-to-production mindset**, using AI, modern cloud platforms, and disciplined engineering practices to move ideas quickly while keeping them enterprise-safe, observable, and resilient.
