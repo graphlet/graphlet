@@ -20,7 +20,7 @@ I work with a **prototype-to-production mindset**, leveraging modern cloud platf
 ## Awards
 
 - **Banking Tech Awards (2024)** — *Award-Winning Platform*  
-  Contributed to the design and delivery of a real-time intraday cash and liquidity management platform recognised for innovation and business impact.
+  Key architect and technical lead for a real-time intraday cash and liquidity management platform, recognised for innovation, scale, and business impact.
 ---
 
 ## Certifications
