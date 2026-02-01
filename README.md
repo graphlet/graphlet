@@ -21,6 +21,7 @@ I work with a **prototype-to-production mindset**, leveraging modern cloud platf
 
 - **Banking Tech Awards (2024)** — *Award-Winning Platform*  
   Key architect and technical lead for a real-time intraday cash and liquidity management platform, recognised for innovation, scale, and business impact.
+  
 ---
 
 ## Certifications
@@ -28,3 +29,5 @@ I work with a **prototype-to-production mindset**, leveraging modern cloud platf
 - **Certificate in Quantitative Finance (CQF)**  
 - **Executive Education** — *Wharton CTO Program*
   Ongoing and completed programs focused on engineering leadership, scalable system design, and applied technology strategy.
+
+---
