@@ -26,5 +26,5 @@ I work with a **prototype-to-production mindset**, leveraging modern cloud platf
 ## Certifications
 
 - **Certificate in Quantitative Finance (CQF)**  
-- **Executive Education** — Wharton CTO Program
+- **Executive Education** — *Wharton CTO Program*
   Ongoing and completed programs focused on engineering leadership, scalable system design, and applied technology strategy.
