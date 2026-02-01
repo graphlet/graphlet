@@ -1,9 +1,30 @@
 # About Me
 
-I build **large-scale, enterprise-ready, high-performance financial systems**, with a CTO’s focus on longevity, correctness, and operational excellence. My work spans architecture, engineering strategy, and hands-on delivery in highly regulated environments.
+I design and build **large-scale, enterprise-ready, high-performance financial systems** used in production environments where correctness, resilience, and speed matter. My work spans system design, hands-on engineering, and long-term platform evolution in regulated domains.
 
-My core expertise sits in **data-centric platforms**, complex data modelling, and financial calculations—turning large, imperfect datasets and sophisticated financial logic into explainable, production-grade systems.
+I place strong emphasis on **clean, maintainable architecture**—clear domain boundaries, explicit data contracts, and model-driven design. I optimise for systems that remain understandable and adaptable as complexity, scale, and regulatory demands increase.
 
-I have a strong bias for **clean, maintainable architecture**—clear domain models, well-defined boundaries, and systems designed to scale both technically and organisationally. I care as much about how systems evolve as how they perform on day one.
+A significant part of my work focuses on **data analytics, complex data modelling, and financial mathematics**—including forecasting, liquidity, risk, and regulatory calculations. I enjoy translating mathematically rich problem spaces and large datasets into precise, explainable, and production-grade implementations.
 
-I operate with a **prototype-to-production mindset**, using AI, modern cloud platforms, and disciplined engineering practices to move ideas quickly while keeping them enterprise-safe, observable, and resilient.
+I work with a **prototype-to-production mindset**, leveraging modern cloud platforms, data tooling, and AI techniques to move quickly while preserving architectural discipline, observability, and operational robustness.
+
+---
+
+## Talks
+
+- **Kafka Summit (2023)** — Speaker  
+  Presented on event-driven architectures and real-time data platforms for high-throughput financial systems.
+  
+---
+
+## Awards
+
+- **Banking Tech Awards (2024)** — *Award-Winning Platform*  
+  Contributed to the design and delivery of a real-time intraday cash and liquidity management platform recognised for innovation and business impact.
+---
+
+## Certifications
+
+- **Certificate in Quantitative Finance (CQF)**  
+- **Executive Education** — Wharton CTO Program
+  Ongoing and completed programs focused on engineering leadership, scalable system design, and applied technology strategy.
